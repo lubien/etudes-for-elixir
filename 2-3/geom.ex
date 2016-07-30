@@ -10,7 +10,7 @@ defmodule Geom do
 
   """
 
-  """
+  @doc """
   Calculates the area based on a height and a width
   """
   def area(height \\ 1, width \\ 1) do
