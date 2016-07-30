@@ -5,6 +5,7 @@ defmodule Geom do
   ## Examples
 
     iex> Geom.area 2, 3
+
     6
 
   """
